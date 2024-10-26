@@ -33,3 +33,10 @@ A simple WordPress plugin that updates all WooCommerce product prices, setting t
 $product->set_regular_price($new_regular_price);
 $product->set_sale_price($new_sale_price);
 $product->save();
+```
+## Screenshots
+1. **Price Change Admin Page**  
+   ![Price Change Admin Page]([https://example.com/path-to-your-screenshot1.png](https://raw.githubusercontent.com/duckyname/wooc-price-changer-99/refs/heads/main/assets/Screenshot%202024-10-26%20193221.png))
+
+2. **Updated Product Prices**  
+   ![Updated Product Prices]([https://example.com/path-to-your-screenshot2.png](https://raw.githubusercontent.com/duckyname/wooc-price-changer-99/refs/heads/main/assets/screenshot-before-after.png))
