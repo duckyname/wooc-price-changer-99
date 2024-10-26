@@ -39,4 +39,4 @@ $product->save();
    ![Price Change Admin Page]([https://example.com/path-to-your-screenshot1.png](https://raw.githubusercontent.com/duckyname/wooc-price-changer-99/refs/heads/main/assets/Screenshot%202024-10-26%20193221.png))
 
 2. **Updated Product Prices**  
-   ![Updated Product Prices]([https://example.com/path-to-your-screenshot2.png](https://raw.githubusercontent.com/duckyname/wooc-price-changer-99/refs/heads/main/assets/screenshot-before-after.png))
+   ![Updated Product Prices](https://raw.githubusercontent.com/duckyname/wooc-price-changer-99/refs/heads/main/assets/screenshot-before-after.png))
